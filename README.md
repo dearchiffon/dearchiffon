@@ -17,7 +17,7 @@ i come to safe when i'm age regressed; please interact with care!
 i don't really mind swear words or anything like that at all ^_^
 </p>
 <p align="center">
-i prefer safe for the calmer atmosphere than the 18+ server c':
+i prefer it here for the calmer atmosphere than the 18+ server c':
 </p>
 <p align="center">
 please do bear in mind that i was born in 2007, making me 18...
