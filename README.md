@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/48pi1f.png" border="1"/>
+<img src="https://files.catbox.moe/6lhdgo.gif" border="1"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ i'm "unc" as one would say! have a lovely day, you!
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/bv49da.png" border="1"/>
+<img src="https://files.catbox.moe/nbecro.gif" border="1"/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ i'm "unc" as one would say! have a lovely day, you!
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/jiju8e.png" border="1"/>
+<img src="https://files.catbox.moe/evnbke.gif" border="1"/>
 </p>
 
 <p align="center">
