@@ -1,6 +1,6 @@
 <html>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=C0DF94&center=true&vCenter=true&width=500&lines=%22are+you+snooping+around+my+stuff%3F+hello+there!%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=86c915&center=true&vCenter=true&width=500&lines=%22are+you+snooping+around+my+stuff%3F+hello+there!%22" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ i'm "unc" as one would say! have a lovely day, you!
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=C0DF94&center=true&vCenter=true&width=500&lines=%22buh-bye!+remember+to+play+touys+and+draw!%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=86c915&center=true&vCenter=true&width=500&lines=%22buh-bye!+remember+to+play+touys+and+draw!%22" alt="Typing SVG" /></a>
 </p>
 </html>
 
